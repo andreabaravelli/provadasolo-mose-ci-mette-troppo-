@@ -17,3 +17,7 @@ namespace altraprova
         }
     }
 }
+static void sesso()
+{
+    //tua mamma
+}
